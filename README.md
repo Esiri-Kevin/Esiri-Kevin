@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Esiri-Kevin
-- 👀 I’m interested in Environmental Sustainability
+- 👀 I’m interested in Environmental Sustainability/Management
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Environmental related Data Analysis and Football related Data Analysis
 - 📫 How to reach me, via my github or email address
